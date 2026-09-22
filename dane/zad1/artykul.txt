@@ -1,0 +1,3 @@
+Java potrafi czytać pliki na wiele sposobów
+ale w codziennej pracy wystarczy Files i Path
+najtrudniejsze bywa kodowanie znaków

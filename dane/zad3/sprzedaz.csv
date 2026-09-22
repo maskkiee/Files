@@ -1,0 +1,12 @@
+id,data,region,produkt,cena,ilosc
+1,2026-01-04,Polnoc,Laptop Dell,3499.99,2
+2,2026-01-05,Poludnie,Mysz Logitech,199.99,10
+3,2026-01-05,Polnoc,Klawiatura MX,499.99,4
+4,2026-01-06,Zachod,Monitor 27,1299.00
+5,2026-01-07,Poludnie,Sluchawki Sony,899.99,3
+6,2026-01-08,Zachod,Kamerka HD,349.50,abc
+7,2026-01-09,Polnoc,Dok USB-C,749.00,5
+
+8,2026-01-10,Wschod,Laptop Lenovo,4199.00,1
+9,2026-01-11,Poludnie,Podkladka,49.99,20
+10,2026-01-12,Wschod,Monitor 32,2199.00,2

@@ -1,0 +1,5 @@
+Plik: dane\zad1\artykul.txt
+Liczba linii: 3
+Liczba słów: 19
+Liczba znaków: 124
+Najdłuższe słowo: najtrudniejsze
